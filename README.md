@@ -40,7 +40,7 @@ The client currently maintains IT assets using a single Microsoft Excel spreadsh
 
 **Screenshot 1 – Legacy Asset Spreadsheet**
 
-`[Insert Screenshot 1 Here]`
+<img width="879" height="430" alt="image" src="https://github.com/user-attachments/assets/3f8ced95-5864-4fb2-9638-1a48b4ca8cf4" />
 
 ---
 
@@ -113,7 +113,7 @@ The improved spreadsheet provides the organisation with a clearer view of its IT
 
 **Screenshot 2 – Improved Spreadsheet CMDB**
 
-`[Insert Screenshot 2 Here]`
+<img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/1357fd75-93b9-432c-9dbe-94d7cf272c17" />
 
 ---
 
@@ -140,19 +140,19 @@ The following screenshots demonstrate the Snipe-IT asset management platform aft
 
 **Figure 1.** Snipe-IT Dashboard – Displays an overview of the organisation's asset management system, providing a summary of managed assets and quick access to key asset management functions.
 
-`[Insert Screenshot 3 Here]`
+<img width="940" height="811" alt="image" src="https://github.com/user-attachments/assets/df2217ad-06a9-4846-9c68-8cb02bc0fec8" />
 
 ### Asset Inventory
 
 **Figure 2.** Asset Inventory – Displays the centralised asset register containing hardware assets, assigned users, locations, asset status, and other inventory information maintained within the CMDB.
 
-`[Insert Screenshot 4 Here]`
+<img width="940" height="634" alt="image" src="https://github.com/user-attachments/assets/00024e1e-a939-4c17-97b8-8b6203cdbd72" />
 
 ### Asset Details
 
 **Figure 3.** Asset Details – Displays detailed information for an individual asset, including hardware specifications, assigned owner, location, asset status, and lifecycle information used to support ongoing asset management.
 
-`[Insert Screenshot 5 Here]`
+<img width="940" height="556" alt="image" src="https://github.com/user-attachments/assets/de3929b5-0d03-42e5-8ee3-1370101191a3" />
 
 ---
 
