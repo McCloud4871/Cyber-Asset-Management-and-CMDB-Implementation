@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Apex Medical Research Pty Ltd is a medium-sized healthcare research organisation with approximately 250 employees operating across two office locations. The company relies on a range of IT assets including Windows workstations, laptops, Windows and Linux servers, network devices, and business applications to support research, finance, human resources, and daily operations.
+Rex Medical Research Pty Ltd is a medium-sized healthcare research organisation with approximately 250 employees operating across two office locations. The company relies on a range of IT assets including Windows workstations, laptops, Windows and Linux servers, network devices, and business applications to support research, finance, human resources, and daily operations.
 
 During an internal audit, it was identified that the organisation's asset inventory was incomplete and maintained through an outdated spreadsheet containing inconsistent and missing information. Several assets lacked ownership details, business criticality classifications, and status, making it difficult for the IT department to accurately identify, manage, and secure organisational assets.
 
