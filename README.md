@@ -1,4 +1,4 @@
-# Cyber Asset Management and CMDB Implementation
+# Enterprise Asset Management and CMDB Implementation
 
 ## Project Overview
 
