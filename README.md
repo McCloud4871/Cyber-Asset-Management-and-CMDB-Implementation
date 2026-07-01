@@ -40,7 +40,7 @@ The client currently maintains IT assets using a single Microsoft Excel spreadsh
 
 **Screenshot 1 – Legacy Asset Spreadsheet**
 
-<img width="879" height="430" alt="image" src="https://github.com/user-attachments/assets/3f8ced95-5864-4fb2-9638-1a48b4ca8cf4" />
+<img width="1877" height="648" alt="image" src="https://github.com/user-attachments/assets/de363c90-bc8f-45d9-9af2-52eb141de8b7" />
 
 ---
 
@@ -113,7 +113,7 @@ The improved spreadsheet provides the organisation with a clearer view of its IT
 
 **Screenshot 2 – Improved Spreadsheet CMDB**
 
-<img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/1357fd75-93b9-432c-9dbe-94d7cf272c17" />
+<img width="1834" height="596" alt="image" src="https://github.com/user-attachments/assets/d4ce458e-4b98-4963-ad1a-1813406d4651" />
 
 ---
 
